@@ -6,5 +6,5 @@ Tree Directory :
 .
 ├── index.html
 ├── main.js
-└── styles.css
+├── styles.css
 
