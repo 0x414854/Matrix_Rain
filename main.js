@@ -13,7 +13,7 @@ gradient.addColorStop(1, '#052D05');
 
 class Symbol {
     constructor(x, y, fontSize, canvasHeight) {
-        this.characters = 'アァカサタナハマヤャラワガザダバパイィキシチニヒミリヰギジヂビピウゥクスツヌフムユュルグズブヅプエェケセテネヘメレヱゲゼデベペオォコソトノホモヨョロヲゴゾドボポヴッ0123456789CASPERX';
+        this.characters = 'アァカサタナハマヤャラワガザダバパイィキシチニヒミリヰギジヂビピウゥクスツヌフムユュルグズブヅプエェケセテネヘメレヱゲゼデベペオォコソトノホモヨョロヲゴゾドボポヴッ1236790x414854';
         this.x = x;
         this.y = y;
         this.fontSize = fontSize;
